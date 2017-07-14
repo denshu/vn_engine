@@ -1,0 +1,12 @@
+#	Script format
+
+# 	This line is intended to be skipped by the parser.
+# 	All lines with a hash mark will be skipped.
+
+#	Different actions will have corresponding functions in the PHP library.
+#
+#
+#
+#
+
+Testing with spaces baybee
