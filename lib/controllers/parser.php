@@ -1,5 +1,5 @@
 <?php
-	namespace lib;
+	namespace lib\controllers;
 
 	class Parser {
 		var $line_num = 0;
