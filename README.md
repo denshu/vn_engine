@@ -1,6 +1,8 @@
 ## Synopsis
 
-I don't want to learn how to use other people's visual novel engines so I'm going to make my own. I have no idea what I'm doing
+I don't want to learn how to use other people's visual novel engines so I'm going to make my own. I have no idea what I'm doing.
+
+Currently, there is absolutely nothing here. Go look at something else!
 
 ## Contributors
 
